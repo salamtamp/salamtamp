@@ -1,16 +1,12 @@
 ### I'm not coding. I cast spells. 🎩
 
-<!--
-**salamtamp/salamtamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 **This week I spent my time on**
+<!--START_SECTION:waka-->
+```text
+JavaScript  6 hrs 18 mins       ████████████░░░░░░░░░░░░░   49.49 % 
+TypeScript  2 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
+JSON        1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+HTML        47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+YAML        38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+```
+<!--END_SECTION:waka-->
