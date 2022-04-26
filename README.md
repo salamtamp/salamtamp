@@ -4,9 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python   46 mins         ██████████████████████▒░░   89.70 %
-Text     3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
-Other    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+Nginx configuration file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
