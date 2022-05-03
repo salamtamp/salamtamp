@@ -4,7 +4,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Nginx configuration file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Bash     2 mins          █████████████████▓░░░░░░░   71.12 %
+Python   1 min           ███████▒░░░░░░░░░░░░░░░░░   28.88 %
 ```
 
 <!--END_SECTION:waka-->
