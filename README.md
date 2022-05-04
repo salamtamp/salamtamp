@@ -4,8 +4,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-Bash     2 mins          █████████████████▓░░░░░░░   71.12 %
-Python   1 min           ███████▒░░░░░░░░░░░░░░░░░   28.88 %
+Nginx configuration file   1 hr 12 mins    ████████████▒░░░░░░░░░░░░   49.54 %
+JavaScript                 24 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.65 %
+Bash                       20 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.09 %
+Other                      20 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.08 %
 ```
 
 <!--END_SECTION:waka-->
