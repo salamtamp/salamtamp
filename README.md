@@ -4,10 +4,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Nginx configuration file   1 hr 12 mins    ████████████▒░░░░░░░░░░░░   49.54 %
-JavaScript                 24 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.65 %
-Bash                       20 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.09 %
-Other                      20 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.08 %
+Nginx configuration file   1 hr 12 mins    ████████████▓░░░░░░░░░░░░   50.82 %
+JavaScript                 24 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.08 %
+Other                      20 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.44 %
 ```
 
 <!--END_SECTION:waka-->
