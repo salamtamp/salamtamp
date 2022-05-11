@@ -4,9 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Nginx configuration file   1 hr 12 mins    ████████████▓░░░░░░░░░░░░   50.82 %
-JavaScript                 24 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.08 %
-Other                      20 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.44 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
