@@ -4,7 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Nginx configuration file   3 mins          █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
